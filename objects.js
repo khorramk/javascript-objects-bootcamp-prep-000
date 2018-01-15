@@ -11,3 +11,4 @@ function updatePlaylist(playlist, name, songTitles){
   
 }
 
+function remov
